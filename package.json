@@ -1,0 +1,7 @@
+{
+  "name": "class-snack-roulette",
+  "version": "1.0.0",
+  "private": true,
+  "description": "반 간식 수요조사와 핀볼 룰렛",
+  "scripts": { "start": "node server.js" }
+}

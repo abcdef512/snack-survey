@@ -1,0 +1,4553 @@
+{
+  "sourceTitle": "(스윗몬)인기과자 490종 골라담기",
+  "sourceGoodsCode": "3666435816",
+  "extractedCount": 500,
+  "categories": [
+    {
+      "category": "01.신제품할인",
+      "count": 42
+    },
+    {
+      "category": "02.파이앤샌드",
+      "count": 50
+    },
+    {
+      "category": "03.비스켓1",
+      "count": 50
+    },
+    {
+      "category": "04.비스켓2",
+      "count": 48
+    },
+    {
+      "category": "05.비스켓소용량",
+      "count": 50
+    },
+    {
+      "category": "06.젤리",
+      "count": 46
+    },
+    {
+      "category": "07.스낵1",
+      "count": 48
+    },
+    {
+      "category": "08.스낵2",
+      "count": 42
+    },
+    {
+      "category": "09.초콜릿",
+      "count": 42
+    },
+    {
+      "category": "10.캔디양갱",
+      "count": 39
+    },
+    {
+      "category": "11.안주캔디껌",
+      "count": 43
+    }
+  ],
+  "products": [
+    {
+      "number": 1,
+      "category": "01.신제품할인",
+      "name": "01_카스타드 우베라떼 138g+코피코2종",
+      "optionNo": 90451429531,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 2,
+      "category": "01.신제품할인",
+      "name": "02_오예스 우베라떼 360g",
+      "optionNo": 90404336230,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 3,
+      "category": "01.신제품할인",
+      "name": "03_쿠크다스 우베에디션 289g",
+      "optionNo": 90404336231,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 4,
+      "category": "01.신제품할인",
+      "name": "04_롯데 제로 쑥단호박 171g",
+      "optionNo": 90423251380,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 5,
+      "category": "01.신제품할인",
+      "name": "05_빅파이 제주레몬허니 324g",
+      "optionNo": 90404336233,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 6,
+      "category": "01.신제품할인",
+      "name": "06_빅파이 여름한정 살구 324g",
+      "optionNo": 90404336234,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 7,
+      "category": "01.신제품할인",
+      "name": "07_아이비 아몬드크래커 178g",
+      "optionNo": 90423251381,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 8,
+      "category": "01.신제품할인",
+      "name": "08_해태 버터링 딥황치즈 155g",
+      "optionNo": 90443424109,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 9,
+      "category": "01.신제품할인",
+      "name": "09_롯데 제크샌드 콘버터 223g",
+      "optionNo": 90404336237,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 10,
+      "category": "01.신제품할인",
+      "name": "10_마가렛트 호두과자 176g+코피코2종",
+      "optionNo": 90451429532,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 11,
+      "category": "01.신제품할인",
+      "name": "11_오뜨 애플파이 175g+코피코2종",
+      "optionNo": 90451429533,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 12,
+      "category": "01.신제품할인",
+      "name": "12_크라운 빙수하임 142g+코피코2종",
+      "optionNo": 90451429535,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 13,
+      "category": "01.신제품할인",
+      "name": "13_프링글스 텍사스식 100g(2개)",
+      "optionNo": 90404336242,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 14,
+      "category": "01.신제품할인",
+      "name": "14_프링글스 미트치즈라자냐 100g(2개)",
+      "optionNo": 90423251384,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 15,
+      "category": "01.신제품할인",
+      "name": "15_키커바 말차팥빙수 28g(3개)",
+      "optionNo": 90455702801,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 16,
+      "category": "01.신제품할인",
+      "name": "16_오레오 100g(3개) 종류랜덤",
+      "optionNo": 90451429540,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 17,
+      "category": "01.신제품할인",
+      "name": "17_오레오 BTS 호떡맛 100g(3개)",
+      "optionNo": 90451429542,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 18,
+      "category": "01.신제품할인",
+      "name": "18_하리보 헬로제주 80g+코피코 17.5g",
+      "optionNo": 90451449482,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 19,
+      "category": "01.신제품할인",
+      "name": "19_참붕어빵 우유슈크림8P (232g)",
+      "optionNo": 90404336250,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 20,
+      "category": "01.신제품할인",
+      "name": "20_비쵸비 딸기125g+코피코2종",
+      "optionNo": 90451429544,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 21,
+      "category": "01.신제품할인",
+      "name": "21_오예스미니 크림소다 192g",
+      "optionNo": 90451429545,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 22,
+      "category": "01.신제품할인",
+      "name": "22_뽀또 체다치즈버터 278g",
+      "optionNo": 90404336255,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 23,
+      "category": "01.신제품할인",
+      "name": "23_뽀또 레몬커스타드 288g",
+      "optionNo": 90404336257,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 24,
+      "category": "01.신제품할인",
+      "name": "24_에이스씬솔티 291g+코피코2종",
+      "optionNo": 90451429546,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 25,
+      "category": "01.신제품할인",
+      "name": "25_쿠크다스 말차에디션 289g",
+      "optionNo": 90422521759,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 26,
+      "category": "01.신제품할인",
+      "name": "26_해태 구운나초 130g",
+      "optionNo": 90422521760,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 27,
+      "category": "01.신제품할인",
+      "name": "27_누룽지팝 달콤 142g+새우깡30g",
+      "optionNo": 90422521762,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 28,
+      "category": "01.신제품할인",
+      "name": "28_누룽지팝 매●콤 142g+새우깡 30g",
+      "optionNo": 90422521765,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 29,
+      "category": "01.신제품할인",
+      "name": "29_애니타임 레몬 40g(3개)",
+      "optionNo": 90422521767,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 30,
+      "category": "01.신제품할인",
+      "name": "30_애니타임 복숭아 40g(3개)",
+      "optionNo": 90422521769,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 31,
+      "category": "01.신제품할인",
+      "name": "31_스카치 커피 60g(3개)",
+      "optionNo": 90422521771,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 32,
+      "category": "01.신제품할인",
+      "name": "32_츄파춥스 플러피판다 60g(3개)",
+      "optionNo": 90422521773,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 33,
+      "category": "01.신제품할인",
+      "name": "33_오리온 딸기알맹이 81g(4개)",
+      "optionNo": 90422521774,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 34,
+      "category": "01.신제품할인",
+      "name": "34_후르트텔라 48g(4개)",
+      "optionNo": 90422521775,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 35,
+      "category": "01.신제품할인",
+      "name": "35_키도 시리즈 90g(3개)",
+      "optionNo": 90422521776,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 36,
+      "category": "01.신제품할인",
+      "name": "36_키도 레몬버터 90g(3개)",
+      "optionNo": 90422521777,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 37,
+      "category": "01.신제품할인",
+      "name": "37_키도 크리미버터 90g(3개)",
+      "optionNo": 90422521778,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 38,
+      "category": "01.신제품할인",
+      "name": "38_키도 피넛버터 90g(3개)",
+      "optionNo": 90422521779,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 39,
+      "category": "01.신제품할인",
+      "name": "39_키도 딸기 90g(3개)",
+      "optionNo": 90422521780,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 40,
+      "category": "01.신제품할인",
+      "name": "40_삼림약과 초당옥수수 70g(총4개)",
+      "optionNo": 90422521781,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 41,
+      "category": "01.신제품할인",
+      "name": "41_삼립 조청듬뿍도넛 60g(3개)",
+      "optionNo": 90422521782,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 42,
+      "category": "01.신제품할인",
+      "name": "42_삼림약과 오리지널 70g(총4개)",
+      "optionNo": 90422521784,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 43,
+      "category": "02.파이앤샌드",
+      "name": "01_오리온 초코파이 468g",
+      "optionNo": 88269087823,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 44,
+      "category": "02.파이앤샌드",
+      "name": "02_카스타드 딸기생크림 276g",
+      "optionNo": 90053381054,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 45,
+      "category": "02.파이앤샌드",
+      "name": "03_오리온 카스타드 276g",
+      "optionNo": 88269087825,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 46,
+      "category": "02.파이앤샌드",
+      "name": "04_오예스 쿠키앤크림 360g",
+      "optionNo": 88269087827,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 47,
+      "category": "02.파이앤샌드",
+      "name": "05_오예스 360g",
+      "optionNo": 88269087828,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 48,
+      "category": "02.파이앤샌드",
+      "name": "06_오예스 미니 192g+코피코2종",
+      "optionNo": 90451429548,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 49,
+      "category": "02.파이앤샌드",
+      "name": "07_몽쉘 크림케이크 408g",
+      "optionNo": 88269087830,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 50,
+      "category": "02.파이앤샌드",
+      "name": "08_몽쉘 카카오케이크 408g",
+      "optionNo": 88269087831,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 51,
+      "category": "02.파이앤샌드",
+      "name": "09_크림블 크렘브뢸레 320g",
+      "optionNo": 88671054704,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 52,
+      "category": "02.파이앤샌드",
+      "name": "10_마가렛트 오리지널 352g",
+      "optionNo": 88269087833,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 53,
+      "category": "02.파이앤샌드",
+      "name": "11_마가렛트 구운모카 352g",
+      "optionNo": 88269087834,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 54,
+      "category": "02.파이앤샌드",
+      "name": "12_롯데 카스타드 오리지널 230g",
+      "optionNo": 88269087835,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 55,
+      "category": "02.파이앤샌드",
+      "name": "13_롯데 엄마손파이 254g",
+      "optionNo": 88269087836,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 56,
+      "category": "02.파이앤샌드",
+      "name": "14_롯데 초코파이 480g 리뉴얼",
+      "optionNo": 88515586190,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 57,
+      "category": "02.파이앤샌드",
+      "name": "15_청우 유자치즈케익 160g",
+      "optionNo": 88515586191,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 58,
+      "category": "02.파이앤샌드",
+      "name": "16_마켓오 브라우니 바이트 240g",
+      "optionNo": 88269087839,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 59,
+      "category": "02.파이앤샌드",
+      "name": "17_청우 쫀득초코칩 240g",
+      "optionNo": 90238411485,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 60,
+      "category": "02.파이앤샌드",
+      "name": "18_쫀득초코칩 커피맛 200g",
+      "optionNo": 90384570038,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 61,
+      "category": "02.파이앤샌드",
+      "name": "19_크라운 롱스 220g",
+      "optionNo": 88269087842,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 62,
+      "category": "02.파이앤샌드",
+      "name": "20_청우초코퍼지 165+코피코2종",
+      "optionNo": 90451429550,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 63,
+      "category": "02.파이앤샌드",
+      "name": "21_청우 그랑쉘ㅇ사과 195g",
+      "optionNo": 88515586193,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 64,
+      "category": "02.파이앤샌드",
+      "name": "22_청우 그랑쉘 딸기 195g",
+      "optionNo": 88515586195,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 65,
+      "category": "02.파이앤샌드",
+      "name": "23_크라운 빅파이 영동포도 324g",
+      "optionNo": 90384570039,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 66,
+      "category": "02.파이앤샌드",
+      "name": "24_청우 쫀득 감자떡쿠키 215g",
+      "optionNo": 90384570040,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 67,
+      "category": "02.파이앤샌드",
+      "name": "25_청우 초코파이찰떡 215g",
+      "optionNo": 88874769895,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 68,
+      "category": "02.파이앤샌드",
+      "name": "26_크라운 빅파이 324g+코피코2종",
+      "optionNo": 90451429553,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 69,
+      "category": "02.파이앤샌드",
+      "name": "27_찰보리찰떡 200+코피코2종",
+      "optionNo": 90451429554,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 70,
+      "category": "02.파이앤샌드",
+      "name": "28_리얼브라우니 120g+오레오 100g",
+      "optionNo": 89251796959,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 71,
+      "category": "02.파이앤샌드",
+      "name": "29_오뜨 쇼콜라 150g+오레오 100g",
+      "optionNo": 89251796960,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 72,
+      "category": "02.파이앤샌드",
+      "name": "30_오뜨 치즈 144g+오레오 100g",
+      "optionNo": 89251796961,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 73,
+      "category": "02.파이앤샌드",
+      "name": "31_후레쉬베리 168g+오레오 100g",
+      "optionNo": 89251796962,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 74,
+      "category": "02.파이앤샌드",
+      "name": "32_참붕어빵 174g+오레오 100g",
+      "optionNo": 89251796963,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 75,
+      "category": "02.파이앤샌드",
+      "name": "33_쿠크다스 케이크 154g+코피코2종",
+      "optionNo": 90451429557,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 76,
+      "category": "02.파이앤샌드",
+      "name": "34_롯데ZERO 초코파이 336g",
+      "optionNo": 88874769897,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 77,
+      "category": "02.파이앤샌드",
+      "name": "35_롯데ZERO미니카카오 171g",
+      "optionNo": 88874769898,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 78,
+      "category": "02.파이앤샌드",
+      "name": "36_롯데 몽쉘 딸기 408g",
+      "optionNo": 89694426669,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 79,
+      "category": "02.파이앤샌드",
+      "name": "37_마켓오 브라우니 오리지널 240g",
+      "optionNo": 89303148043,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 80,
+      "category": "02.파이앤샌드",
+      "name": "38_마켓오 브라우니 말차 240g",
+      "optionNo": 90282515839,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 81,
+      "category": "02.파이앤샌드",
+      "name": "39_마켓오 브라우니 크림치즈 240g",
+      "optionNo": 90282515840,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 82,
+      "category": "02.파이앤샌드",
+      "name": "40_청우 브루느와 브라우니 165g",
+      "optionNo": 90384570041,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 83,
+      "category": "02.파이앤샌드",
+      "name": "41_청우 찰떡쿠키 오리지널 215g",
+      "optionNo": 90384570042,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 84,
+      "category": "02.파이앤샌드",
+      "name": "42_청우 왕찹쌀모나카 240g",
+      "optionNo": 89303148050,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 85,
+      "category": "02.파이앤샌드",
+      "name": "43_후렌치파이 사과 192g+코피코2종",
+      "optionNo": 90451429561,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 86,
+      "category": "02.파이앤샌드",
+      "name": "44_후렌치파이 딸기 192g+코피코2종",
+      "optionNo": 90451429563,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 87,
+      "category": "02.파이앤샌드",
+      "name": "45_크라운 빅파이 216g(2개)",
+      "optionNo": 90384570045,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 88,
+      "category": "02.파이앤샌드",
+      "name": "46_마가렛트 구운모카 176g(2개)",
+      "optionNo": 90384570046,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 89,
+      "category": "02.파이앤샌드",
+      "name": "47_마가렛트 오리지널 176g(2개)",
+      "optionNo": 90384570047,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 90,
+      "category": "02.파이앤샌드",
+      "name": "48_롯데 카스타드 138g+코피코2종",
+      "optionNo": 90451429566,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 91,
+      "category": "02.파이앤샌드",
+      "name": "49_몽쉘 크림케이크 204g(2개)",
+      "optionNo": 90384570048,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 92,
+      "category": "02.파이앤샌드",
+      "name": "50_몽쉘 카카오케이크 204g(2개)",
+      "optionNo": 90384570049,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 93,
+      "category": "03.비스켓1",
+      "name": "01_크라운 쵸코하임 284g",
+      "optionNo": 88269087878,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 94,
+      "category": "03.비스켓1",
+      "name": "02_크라운 화이트하임 284g",
+      "optionNo": 88269087879,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 95,
+      "category": "03.비스켓1",
+      "name": "03_크라운 버터와플 316g",
+      "optionNo": 88269087880,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 96,
+      "category": "03.비스켓1",
+      "name": "04_쿠크다스 비엔나커피 289g",
+      "optionNo": 88269087881,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 97,
+      "category": "03.비스켓1",
+      "name": "05_쿠크다스 화이트토르테 289g",
+      "optionNo": 88269087882,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 98,
+      "category": "03.비스켓1",
+      "name": "06_롯데 립파이 초코 132g",
+      "optionNo": 88269087884,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 99,
+      "category": "03.비스켓1",
+      "name": "07_예감 오리지널 192g+64g",
+      "optionNo": 88269087885,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 100,
+      "category": "03.비스켓1",
+      "name": "08_예감 치즈그라탕 204g+64g",
+      "optionNo": 88269087886,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 101,
+      "category": "03.비스켓1",
+      "name": "09_예감 볶은양파맛 204g+64g",
+      "optionNo": 88269087887,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 102,
+      "category": "03.비스켓1",
+      "name": "10_해태 버터링 딥초코 155g",
+      "optionNo": 88269087888,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 103,
+      "category": "03.비스켓1",
+      "name": "11_해태 버터링 골드 194g",
+      "optionNo": 88269087889,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 104,
+      "category": "03.비스켓1",
+      "name": "12_해태 사브레 252g",
+      "optionNo": 88269087890,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 105,
+      "category": "03.비스켓1",
+      "name": "13_해태 구운감자슬림 240g",
+      "optionNo": 88269087891,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 106,
+      "category": "03.비스켓1",
+      "name": "14_해태 구운감자 135g",
+      "optionNo": 88269087892,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 107,
+      "category": "03.비스켓1",
+      "name": "15_오리온 촉촉한초코칩 240g",
+      "optionNo": 88269087893,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 108,
+      "category": "03.비스켓1",
+      "name": "16_롯데 칙촉 180g+코피코2종",
+      "optionNo": 90451429567,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 109,
+      "category": "03.비스켓1",
+      "name": "17_오리온 고소미 216g+70g",
+      "optionNo": 88269087896,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 110,
+      "category": "03.비스켓1",
+      "name": "18_롯데 빈츠 204g",
+      "optionNo": 88269087897,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 111,
+      "category": "03.비스켓1",
+      "name": "19_에이스 씬에스프 291g+맛랜덤",
+      "optionNo": 89694426697,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 112,
+      "category": "03.비스켓1",
+      "name": "20_에이스 바스크 364g+맛랜덤",
+      "optionNo": 89694426699,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 113,
+      "category": "03.비스켓1",
+      "name": "21_해태 에이스 364g+맛랜덤",
+      "optionNo": 89694426701,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 114,
+      "category": "03.비스켓1",
+      "name": "22_크라운 참크래커 280g+56g",
+      "optionNo": 88269087902,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 115,
+      "category": "03.비스켓1",
+      "name": "23_오리온 초코송이 144g+45g",
+      "optionNo": 89694426704,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 116,
+      "category": "03.비스켓1",
+      "name": "24_참그래인우리밀 192g+48g",
+      "optionNo": 89892199014,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 117,
+      "category": "03.비스켓1",
+      "name": "25_비쵸비 125g+오레오 100g",
+      "optionNo": 89694426707,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 118,
+      "category": "03.비스켓1",
+      "name": "26_다이제 미니 240g+80g",
+      "optionNo": 88269087906,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 119,
+      "category": "03.비스켓1",
+      "name": "27_오리온 통크 240g",
+      "optionNo": 88269087907,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 120,
+      "category": "03.비스켓1",
+      "name": "28_다이제 오리지널 351g+통크45g",
+      "optionNo": 88515667025,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 121,
+      "category": "03.비스켓1",
+      "name": "29_다이제 초코 312g+통크45g",
+      "optionNo": 88515667026,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 122,
+      "category": "03.비스켓1",
+      "name": "30_다이제 씬 252g+통크45g",
+      "optionNo": 88515667027,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 123,
+      "category": "03.비스켓1",
+      "name": "31_청우 플랑 납작복숭아 160g",
+      "optionNo": 90274787848,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 124,
+      "category": "03.비스켓1",
+      "name": "32_청우 플랑 딸기 160g",
+      "optionNo": 90274787849,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 125,
+      "category": "03.비스켓1",
+      "name": "33_롯데 제크 300g+코피코2종",
+      "optionNo": 90451429568,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 126,
+      "category": "03.비스켓1",
+      "name": "34_야채크래커 249g+코피코2종",
+      "optionNo": 90451429569,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 127,
+      "category": "03.비스켓1",
+      "name": "35_롯데 롯샌 315g+코피코2종",
+      "optionNo": 90451429570,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 128,
+      "category": "03.비스켓1",
+      "name": "36_롯샌 파스퇴르 순우유맛 315g",
+      "optionNo": 90274787853,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 129,
+      "category": "03.비스켓1",
+      "name": "37_빠다코코낫 300g+코피코2종",
+      "optionNo": 90451429571,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 130,
+      "category": "03.비스켓1",
+      "name": "38_롯데 칸쵸 파티백 196g+40g",
+      "optionNo": 90274787855,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 131,
+      "category": "03.비스켓1",
+      "name": "39_뽀또 체다치즈버터 278g",
+      "optionNo": 90384570058,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 132,
+      "category": "03.비스켓1",
+      "name": "40_크라운 그레이스 298g+85g",
+      "optionNo": 88269087923,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 133,
+      "category": "03.비스켓1",
+      "name": "41_해태 아이비 309g+58g",
+      "optionNo": 88269087925,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 134,
+      "category": "03.비스켓1",
+      "name": "42_크라운산도 밤티라미수 323g",
+      "optionNo": 90274787856,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 135,
+      "category": "03.비스켓1",
+      "name": "43_크라운산도 밀크 323g+61g",
+      "optionNo": 89694426725,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 136,
+      "category": "03.비스켓1",
+      "name": "44_크라운산도 딸기 323g+61g",
+      "optionNo": 89694426727,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 137,
+      "category": "03.비스켓1",
+      "name": "45_크라운 땅콩샌드 279g+93g",
+      "optionNo": 89694426729,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 138,
+      "category": "03.비스켓1",
+      "name": "46_크라운 애플샌드 261g+87g",
+      "optionNo": 89694426731,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 139,
+      "category": "03.비스켓1",
+      "name": "47_롯데ZERO초콜릿칩 168g",
+      "optionNo": 89694426733,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 140,
+      "category": "03.비스켓1",
+      "name": "48_롯데ZERO 쿠앤크샌드 288g",
+      "optionNo": 89694426735,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 141,
+      "category": "03.비스켓1",
+      "name": "49_해태 롤리폴리 196g",
+      "optionNo": 89694426737,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 142,
+      "category": "03.비스켓1",
+      "name": "50_치즈샌드 리치 180g+45g",
+      "optionNo": 89694426739,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 143,
+      "category": "04.비스켓2",
+      "name": "01_포키 오리지널 패밀리팩 151g",
+      "optionNo": 88515757488,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 144,
+      "category": "04.비스켓2",
+      "name": "02_포키 극세 패밀리팩 141g",
+      "optionNo": 88515757489,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 145,
+      "category": "04.비스켓2",
+      "name": "03_롯데 비스킷 4번들 161g",
+      "optionNo": 89303322345,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 146,
+      "category": "04.비스켓2",
+      "name": "04_랑드샤쇼콜라 91g+가나마일드 34g",
+      "optionNo": 89303322346,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 147,
+      "category": "04.비스켓2",
+      "name": "05_옹실한 칠곡쿠키 216g",
+      "optionNo": 90355366705,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 148,
+      "category": "04.비스켓2",
+      "name": "06_참크래커 알프스암염 295g",
+      "optionNo": 90355366706,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 149,
+      "category": "04.비스켓2",
+      "name": "07_알로 블랙트러플 감자 286g",
+      "optionNo": 90384570059,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 150,
+      "category": "04.비스켓2",
+      "name": "08_알로 흑바늘 감자 286g",
+      "optionNo": 90384570060,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 151,
+      "category": "04.비스켓2",
+      "name": "09_알로 트러플하몽 319g",
+      "optionNo": 90384570061,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 152,
+      "category": "04.비스켓2",
+      "name": "10_오레오 스틱 175g+코피코2종",
+      "optionNo": 90451429572,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 153,
+      "category": "04.비스켓2",
+      "name": "11_오리온 초코칩쿠키 192g(2개)",
+      "optionNo": 90384570063,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 154,
+      "category": "04.비스켓2",
+      "name": "12_오리온 고래밥 160g(2개)",
+      "optionNo": 90384570064,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 155,
+      "category": "04.비스켓2",
+      "name": "13_포테이토 샤워크림 15g(36개)",
+      "optionNo": 90384570065,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 156,
+      "category": "04.비스켓2",
+      "name": "14_포테이토 바베큐맛 15g(36개)",
+      "optionNo": 90384570066,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 157,
+      "category": "04.비스켓2",
+      "name": "15_밀크클래식 우유맛 240g",
+      "optionNo": 90384570067,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 158,
+      "category": "04.비스켓2",
+      "name": "16_밀크클래식 치즈맛 240g",
+      "optionNo": 90384570068,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 159,
+      "category": "04.비스켓2",
+      "name": "17_쿠크다스 비엔나커피 128g(2개)",
+      "optionNo": 90355366718,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 160,
+      "category": "04.비스켓2",
+      "name": "18_쿠크다스 화이트 128g(2개)",
+      "optionNo": 90384570069,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 161,
+      "category": "04.비스켓2",
+      "name": "19_쵸코하임 142g(2개)",
+      "optionNo": 89694426771,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 162,
+      "category": "04.비스켓2",
+      "name": "20_화이트하임 142g(2개)",
+      "optionNo": 90384570070,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 163,
+      "category": "04.비스켓2",
+      "name": "21_크라운산도 딸기 161g(2개)",
+      "optionNo": 90355366721,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 164,
+      "category": "04.비스켓2",
+      "name": "22_크라운산도 밀크 161g(2개)",
+      "optionNo": 90384570071,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 165,
+      "category": "04.비스켓2",
+      "name": "23_롯데 빈츠 102g(2개)",
+      "optionNo": 89694426779,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 166,
+      "category": "04.비스켓2",
+      "name": "24_롯데 칙촉 120g(2개)",
+      "optionNo": 89694426780,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 167,
+      "category": "04.비스켓2",
+      "name": "25_크라운 버터와플 135g(2개)",
+      "optionNo": 89694426782,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 168,
+      "category": "04.비스켓2",
+      "name": "26_촉촉한초코칩 160g(2개)",
+      "optionNo": 90384570072,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 169,
+      "category": "04.비스켓2",
+      "name": "27_프링글스 사워크림 53g(3개)",
+      "optionNo": 90355366723,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 170,
+      "category": "04.비스켓2",
+      "name": "28_프링글스 핫스파이시 53g(3개)",
+      "optionNo": 90355366724,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 171,
+      "category": "04.비스켓2",
+      "name": "29_프링글스 스윗어니언 48g(3개)",
+      "optionNo": 90355366725,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 172,
+      "category": "04.비스켓2",
+      "name": "30_프링글스 미니하트로즈 35g(3개)",
+      "optionNo": 90355366726,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 173,
+      "category": "04.비스켓2",
+      "name": "31_프링글스 오리지널 53g(3개)",
+      "optionNo": 90384570073,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 174,
+      "category": "04.비스켓2",
+      "name": "32_프링글스 소용량5종중랜덤(3개)",
+      "optionNo": 90384570074,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 175,
+      "category": "04.비스켓2",
+      "name": "33_프링글스大랜덤(2개)",
+      "optionNo": 90384570075,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 176,
+      "category": "04.비스켓2",
+      "name": "34_프링글스 버터카라멜 110g(2개)",
+      "optionNo": 89694426800,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 177,
+      "category": "04.비스켓2",
+      "name": "35_프링글스 스모키피자 102g(2개)",
+      "optionNo": 89694426802,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 178,
+      "category": "04.비스켓2",
+      "name": "36_프링글스 스윗어니언 100g(2개)",
+      "optionNo": 89694426804,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 179,
+      "category": "04.비스켓2",
+      "name": "37_프링글스 핫스파이시 110g(2개)",
+      "optionNo": 89694426806,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 180,
+      "category": "04.비스켓2",
+      "name": "38_프링글스 오리지널 110g(2개)",
+      "optionNo": 89694426808,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 181,
+      "category": "04.비스켓2",
+      "name": "39_프링글스 양파 110g(2개)",
+      "optionNo": 89694426810,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 182,
+      "category": "04.비스켓2",
+      "name": "40_프링글스 닭강정 100g(2개)",
+      "optionNo": 89694426813,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 183,
+      "category": "04.비스켓2",
+      "name": "41_프링글스 캐리비안식 100g(2개)",
+      "optionNo": 89694426815,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 184,
+      "category": "04.비스켓2",
+      "name": "42_프링글스 리치치즈갈릭 102g(2개)",
+      "optionNo": 89694426817,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 185,
+      "category": "04.비스켓2",
+      "name": "43_프링글스 치즈 110g(2개)",
+      "optionNo": 90384570078,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 186,
+      "category": "04.비스켓2",
+      "name": "44_크라운 참쌀선과 253g",
+      "optionNo": 90384570079,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 187,
+      "category": "04.비스켓2",
+      "name": "45_크라운 참쌀설병 270g",
+      "optionNo": 90384570080,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 188,
+      "category": "04.비스켓2",
+      "name": "46_크라운 참쌀누룽지 216g",
+      "optionNo": 90384570081,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 189,
+      "category": "04.비스켓2",
+      "name": "47_참쌀선과 115g(2개)",
+      "optionNo": 90384570082,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 190,
+      "category": "04.비스켓2",
+      "name": "48_참쌀설병 128g(2개)",
+      "optionNo": 90384570083,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 191,
+      "category": "05.비스켓소용량",
+      "name": "01_오리온 고래밥 46g(6개)",
+      "optionNo": 88269087981,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 192,
+      "category": "05.비스켓소용량",
+      "name": "02_오리온 초코송이 50g(4개)",
+      "optionNo": 88269087982,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 193,
+      "category": "05.비스켓소용량",
+      "name": "03_해태 오예스 60g(4개)",
+      "optionNo": 89910185455,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 194,
+      "category": "05.비스켓소용량",
+      "name": "04_크라운 쵸코하임 47g(4개)",
+      "optionNo": 89910185456,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 195,
+      "category": "05.비스켓소용량",
+      "name": "05_크라운 화이트하임 47g(4개)",
+      "optionNo": 89910185457,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 196,
+      "category": "05.비스켓소용량",
+      "name": "06_쿠크다스 화이트 77g(4개)",
+      "optionNo": 89910185458,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 197,
+      "category": "05.비스켓소용량",
+      "name": "07_크라운 산도 딸기 61g(4개)",
+      "optionNo": 89910185459,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 198,
+      "category": "05.비스켓소용량",
+      "name": "08_크라운 산도 스윗밀크 61g(4개)",
+      "optionNo": 89910185460,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 199,
+      "category": "05.비스켓소용량",
+      "name": "09_크라운 소보로 60g(4개)",
+      "optionNo": 89910185461,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 200,
+      "category": "05.비스켓소용량",
+      "name": "10_크라운 버터와플 52g(4개)",
+      "optionNo": 89910185462,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 201,
+      "category": "05.비스켓소용량",
+      "name": "11_애플샌드 91g(4개)",
+      "optionNo": 89910185463,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 202,
+      "category": "05.비스켓소용량",
+      "name": "12_땅콩샌드 93g(4개)",
+      "optionNo": 89910185464,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 203,
+      "category": "05.비스켓소용량",
+      "name": "13_참그레인우리밀 48g(4개)",
+      "optionNo": 89910185465,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 204,
+      "category": "05.비스켓소용량",
+      "name": "14_참크래커 56g(4개)",
+      "optionNo": 89910185466,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 205,
+      "category": "05.비스켓소용량",
+      "name": "15_참알프스암염 59g(4개)",
+      "optionNo": 89910185467,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 206,
+      "category": "05.비스켓소용량",
+      "name": "16_크라운 뽀또 92g(4개)",
+      "optionNo": 89910185468,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 207,
+      "category": "05.비스켓소용량",
+      "name": "17_크라운 치즈샌드 45g(4개)",
+      "optionNo": 89910185469,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 208,
+      "category": "05.비스켓소용량",
+      "name": "18_크라운 그레이스 85g(4개)",
+      "optionNo": 89910185470,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 209,
+      "category": "05.비스켓소용량",
+      "name": "19_오리온 다이제 씬 84g(4개)",
+      "optionNo": 89910185471,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 210,
+      "category": "05.비스켓소용량",
+      "name": "20_오리온 다이제 미니 80g(4개)",
+      "optionNo": 89910185472,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 211,
+      "category": "05.비스켓소용량",
+      "name": "21_오리온 미쯔 60g(6개)",
+      "optionNo": 89910185473,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 212,
+      "category": "05.비스켓소용량",
+      "name": "22_뽀로로 치즈 65g(4개)",
+      "optionNo": 89910185474,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 213,
+      "category": "05.비스켓소용량",
+      "name": "23_뽀로로 플레인 65g(4개)",
+      "optionNo": 89910185475,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 214,
+      "category": "05.비스켓소용량",
+      "name": "24_미니꽃게랑 치즈버거 40g(4개)",
+      "optionNo": 89910185476,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 215,
+      "category": "05.비스켓소용량",
+      "name": "25_미니꽃게랑 오리지널 40g(4개)",
+      "optionNo": 89910185477,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 216,
+      "category": "05.비스켓소용량",
+      "name": "26_롯데 칸쵸 54g(4개)",
+      "optionNo": 89910185478,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 217,
+      "category": "05.비스켓소용량",
+      "name": "27_롯데 씨리얼초코 42g(4개)",
+      "optionNo": 89910185479,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 218,
+      "category": "05.비스켓소용량",
+      "name": "28_오리온 통크 45g(4개)",
+      "optionNo": 89910185481,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 219,
+      "category": "05.비스켓소용량",
+      "name": "29_ABC 초코쿠키 50g(4개)",
+      "optionNo": 89910185483,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 220,
+      "category": "05.비스켓소용량",
+      "name": "30_오리온 고소미 70g(3개)",
+      "optionNo": 89910185486,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 221,
+      "category": "05.비스켓소용량",
+      "name": "31_다이재샌드 밀크크림 93g(3개)",
+      "optionNo": 89910185491,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 222,
+      "category": "05.비스켓소용량",
+      "name": "32_오리온 샌드나 77g(3개)",
+      "optionNo": 89910185493,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 223,
+      "category": "05.비스켓소용량",
+      "name": "33_오리온 다이제초코스프 98g(3개)",
+      "optionNo": 89910185494,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 224,
+      "category": "05.비스켓소용량",
+      "name": "34_오리온 예감 볶음양파맛 64g(3개)",
+      "optionNo": 89910185495,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 225,
+      "category": "05.비스켓소용량",
+      "name": "35_오리온 예감 오리지널 64g(3개)",
+      "optionNo": 89910185496,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 226,
+      "category": "05.비스켓소용량",
+      "name": "36_오리온 예감 치즈그라탕 64g(3개)",
+      "optionNo": 89910185497,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 227,
+      "category": "05.비스켓소용량",
+      "name": "37_초코칩쿠키MINI 90g(3개)",
+      "optionNo": 89910185498,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 228,
+      "category": "05.비스켓소용량",
+      "name": "38_롯데 빼빼로 초코 54g(3개)",
+      "optionNo": 89910185499,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 229,
+      "category": "05.비스켓소용량",
+      "name": "39_롯데 빼빼로 크런키 39g(3개)",
+      "optionNo": 89910185500,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 230,
+      "category": "05.비스켓소용량",
+      "name": "40_롯데 빼빼로 누드 50g(3개)",
+      "optionNo": 89910185502,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 231,
+      "category": "05.비스켓소용량",
+      "name": "41_롯데 빼빼로 아몬드 37g(3개)",
+      "optionNo": 89910185504,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 232,
+      "category": "05.비스켓소용량",
+      "name": "42_롯데 빼빼로 초코쿠키 37g(3개)",
+      "optionNo": 89910185506,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 233,
+      "category": "05.비스켓소용량",
+      "name": "43_롯데 빼빼로 화이트쿠키 37g(3개)",
+      "optionNo": 89910185509,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 234,
+      "category": "05.비스켓소용량",
+      "name": "44_포테이토 바베큐맛 75g(4개)",
+      "optionNo": 89910185511,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 235,
+      "category": "05.비스켓소용량",
+      "name": "45_포테이토 사워크림 75g(4개)",
+      "optionNo": 89910185512,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 236,
+      "category": "05.비스켓소용량",
+      "name": "46_오레오 화이트크림 100g(3개)",
+      "optionNo": 89910185513,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 237,
+      "category": "05.비스켓소용량",
+      "name": "47_오레오 초콜릿크림 100g(3개)",
+      "optionNo": 89910185514,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 238,
+      "category": "05.비스켓소용량",
+      "name": "48_오레오 딸기크림 100g(3개)",
+      "optionNo": 89910185515,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 239,
+      "category": "05.비스켓소용량",
+      "name": "49_오리온 초코파이 78g(6개)",
+      "optionNo": 89910185516,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 240,
+      "category": "05.비스켓소용량",
+      "name": "50_오리온 후레쉬베리 56g(4개)",
+      "optionNo": 89910185517,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 241,
+      "category": "06.젤리",
+      "name": "01_오리온 자두알맹이 67g(4개)",
+      "optionNo": 88269088038,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 242,
+      "category": "06.젤리",
+      "name": "02_오리온 포도알맹이 67g(4개)",
+      "optionNo": 88269088040,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 243,
+      "category": "06.젤리",
+      "name": "03_오리온 리찌알맹이 67g(4개)",
+      "optionNo": 88269088041,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 244,
+      "category": "06.젤리",
+      "name": "04_비타민 마이구미 72g(4개)",
+      "optionNo": 89694426912,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 245,
+      "category": "06.젤리",
+      "name": "05_마이구미 포도 66g(4개)",
+      "optionNo": 88874786354,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 246,
+      "category": "06.젤리",
+      "name": "06_마이구미 백도황도 66g(4개)",
+      "optionNo": 88874786355,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 247,
+      "category": "06.젤리",
+      "name": "07_코코망고알맹이 67g(4개)",
+      "optionNo": 89517854711,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 248,
+      "category": "06.젤리",
+      "name": "08_과일꿀꺽 왕꿈틀이 75g(4개)",
+      "optionNo": 88588626407,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 249,
+      "category": "06.젤리",
+      "name": "09_왕꿈틀이 67g(4개)",
+      "optionNo": 88874786357,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 250,
+      "category": "06.젤리",
+      "name": "10_왕꿈틀이 미니 프루츠 75g(4개)",
+      "optionNo": 90443568039,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 251,
+      "category": "06.젤리",
+      "name": "11_골드키위알맹이 81g(4개)",
+      "optionNo": 89517854716,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 252,
+      "category": "06.젤리",
+      "name": "12_오리온젤리 랜덤발송(4개)",
+      "optionNo": 89517854720,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 253,
+      "category": "06.젤리",
+      "name": "13_내맘몰랑 복숭아 50g(5개)",
+      "optionNo": 89910185524,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 254,
+      "category": "06.젤리",
+      "name": "14_내맘몰랑 청사과 50g(5개)",
+      "optionNo": 89910185526,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 255,
+      "category": "06.젤리",
+      "name": "15_메가룰렛 오리지널 45g(4개)",
+      "optionNo": 90195362577,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 256,
+      "category": "06.젤리",
+      "name": "16_하리보 스타믹스컵 175g",
+      "optionNo": 90443568040,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 257,
+      "category": "06.젤리",
+      "name": "17_하리보 골드베렌컵 175g",
+      "optionNo": 90443568041,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 258,
+      "category": "06.젤리",
+      "name": "18_하리보 피치컵 175g",
+      "optionNo": 90443568042,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 259,
+      "category": "06.젤리",
+      "name": "19_하리보 랜덤(2개)+메가룰렛",
+      "optionNo": 90195362582,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 260,
+      "category": "06.젤리",
+      "name": "20_하리보MIX사우어(2개)+메가룰렛",
+      "optionNo": 90195362584,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 261,
+      "category": "06.젤리",
+      "name": "21_하리보골드베렌 (2개)+메가룰렛",
+      "optionNo": 90195362585,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 262,
+      "category": "06.젤리",
+      "name": "22_하리보스타믹스 (2개)+메가룰렛",
+      "optionNo": 90195362587,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 263,
+      "category": "06.젤리",
+      "name": "23_하리보프루티부시(2개)+메가룰렛",
+      "optionNo": 90195362589,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 264,
+      "category": "06.젤리",
+      "name": "24_하리보해피그레이프(2개)+메가룰렛",
+      "optionNo": 90195362590,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 265,
+      "category": "06.젤리",
+      "name": "25_하리보웜즈 (2개)+메가룰렛",
+      "optionNo": 90195362591,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 266,
+      "category": "06.젤리",
+      "name": "26_하리보해피콜라 (2개)+메가룰렛",
+      "optionNo": 90195362592,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 267,
+      "category": "06.젤리",
+      "name": "27_하리보웜즈사우어(2개)+메가룰렛",
+      "optionNo": 90195362594,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 268,
+      "category": "06.젤리",
+      "name": "28_하리보콜라사우어(2개)+메가룰렛",
+      "optionNo": 90195362596,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 269,
+      "category": "06.젤리",
+      "name": "29_하리보자몽 (2개)+메가룰렛",
+      "optionNo": 90195362597,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 270,
+      "category": "06.젤리",
+      "name": "30_하리보 피치 (2개)+메가룰렛",
+      "optionNo": 90195362598,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 271,
+      "category": "06.젤리",
+      "name": "31_오키오 구미 딸기 80g(3개)",
+      "optionNo": 90195362600,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 272,
+      "category": "06.젤리",
+      "name": "32_오키오 구미 복숭아 80g(3개)",
+      "optionNo": 90195362601,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 273,
+      "category": "06.젤리",
+      "name": "33_오키오 구미 포도 80g(3개)",
+      "optionNo": 89517854738,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 274,
+      "category": "06.젤리",
+      "name": "34_오키오 구미 망고 80g(3개)",
+      "optionNo": 89517854739,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 275,
+      "category": "06.젤리",
+      "name": "35_롯데 수박바젤리 56g(4개)",
+      "optionNo": 90195362604,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 276,
+      "category": "06.젤리",
+      "name": "36_롯데 죠스바젤리 70g(4개)",
+      "optionNo": 90195362605,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 277,
+      "category": "06.젤리",
+      "name": "37_짱셔요 후르츠 51g(4개)",
+      "optionNo": 90195362608,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 278,
+      "category": "06.젤리",
+      "name": "38_짱셔요 콜라 50g(4개)",
+      "optionNo": 90195362609,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 279,
+      "category": "06.젤리",
+      "name": "39_짱셔요 라임포도 48g(4개)",
+      "optionNo": 89517854746,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 280,
+      "category": "06.젤리",
+      "name": "40_짱셔요 깔라만시 45g(4개)",
+      "optionNo": 90195362612,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 281,
+      "category": "06.젤리",
+      "name": "41_짱셔요 스위티자몽 46g(4개)",
+      "optionNo": 90195362613,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 282,
+      "category": "06.젤리",
+      "name": "42_광동 비타500 젤리 48g(3개)",
+      "optionNo": 89910185543,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 283,
+      "category": "06.젤리",
+      "name": "43_동아 박카스맛젤리 50g(3개)",
+      "optionNo": 89910185545,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 284,
+      "category": "06.젤리",
+      "name": "44_왕꿈틀이 미니 프루츠믹스 336g",
+      "optionNo": 89919350133,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 285,
+      "category": "06.젤리",
+      "name": "45_크라운 밤팥양갱 10번들",
+      "optionNo": 89919631737,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 286,
+      "category": "06.젤리",
+      "name": "46_크라운 밤양갱 50g(10개)",
+      "optionNo": 89919631738,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 287,
+      "category": "07.스낵1",
+      "name": "01_포카칩 오리지널 66g(3개)",
+      "optionNo": 88874770022,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 288,
+      "category": "07.스낵1",
+      "name": "02_포카칩 어니언맛 66g(3개)",
+      "optionNo": 88874770026,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 289,
+      "category": "07.스낵1",
+      "name": "03_스윙칩 볶음고추장 60g(3개)",
+      "optionNo": 88269088098,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 290,
+      "category": "07.스낵1",
+      "name": "04_도도한 나쵸 치즈맛 92g(3개)",
+      "optionNo": 88269088099,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 291,
+      "category": "07.스낵1",
+      "name": "05_오감자 딥양념바베큐 75g(3개)",
+      "optionNo": 88269088100,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 292,
+      "category": "07.스낵1",
+      "name": "06_오리온 썬 핫스파이시 64g(3개)",
+      "optionNo": 88269088101,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 293,
+      "category": "07.스낵1",
+      "name": "07_단백질칩 칠리살사 60g(3개)",
+      "optionNo": 88269088102,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 294,
+      "category": "07.스낵1",
+      "name": "08_단백질칩 버터구이 60g(3개)",
+      "optionNo": 88269088103,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 295,
+      "category": "07.스낵1",
+      "name": "09_오리온 오징어땅콩 98g(3개)",
+      "optionNo": 88269088105,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 296,
+      "category": "07.스낵1",
+      "name": "10_꼬북칩 카라멜팝콘 80g(3개)",
+      "optionNo": 89908007515,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 297,
+      "category": "07.스낵1",
+      "name": "11_꼬북칩 콘스프맛 64g(3개)",
+      "optionNo": 89814991824,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 298,
+      "category": "07.스낵1",
+      "name": "12_꼬북칩 초코츄러스맛 64g(3개)",
+      "optionNo": 89814991825,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 299,
+      "category": "07.스낵1",
+      "name": "13_오리온 왕고래밥 56g(4개)",
+      "optionNo": 88269088116,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 300,
+      "category": "07.스낵1",
+      "name": "14_오리온 오감자 그라탕 50g(3개)",
+      "optionNo": 88269088119,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 301,
+      "category": "07.스낵1",
+      "name": "15_오리온 눈을감자 56g(3개)",
+      "optionNo": 88269088122,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 302,
+      "category": "07.스낵1",
+      "name": "16_오리온 무뚝뚝 감자칩 60g(3개)",
+      "optionNo": 88269088125,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 303,
+      "category": "07.스낵1",
+      "name": "17_오리온 무뚝뚝 고구마칩 56g(3개)",
+      "optionNo": 88269088127,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 304,
+      "category": "07.스낵1",
+      "name": "18_눈을감자+무뚝감자+고구마(3개)",
+      "optionNo": 88269088129,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 305,
+      "category": "07.스낵1",
+      "name": "19_치즈뿌린 치킨팝 65g(3개)",
+      "optionNo": 89814991826,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 306,
+      "category": "07.스낵1",
+      "name": "20_치킨팝 닭강정맛 65g(3개)",
+      "optionNo": 89814991827,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 307,
+      "category": "07.스낵1",
+      "name": "21_오리온 땅콩강정 80g(3개)",
+      "optionNo": 89908007516,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 308,
+      "category": "07.스낵1",
+      "name": "22_크라운 죠리퐁 74g(3개)",
+      "optionNo": 88269088137,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 309,
+      "category": "07.스낵1",
+      "name": "23_죠리퐁 마시멜로 59g(3개)",
+      "optionNo": 88269088139,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 310,
+      "category": "07.스낵1",
+      "name": "24_크라운 콘칩 70g(3개)",
+      "optionNo": 88269088141,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 311,
+      "category": "07.스낵1",
+      "name": "25_크라운 콘치 66g(3개)",
+      "optionNo": 88269088143,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 312,
+      "category": "07.스낵1",
+      "name": "26_크라운 콘초 66g(3개)",
+      "optionNo": 88269088146,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 313,
+      "category": "07.스낵1",
+      "name": "27_콘칩 초당옥수수 70g(3개)",
+      "optionNo": 89908007521,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 314,
+      "category": "07.스낵1",
+      "name": "28_해태 오사쯔 60g(3개)",
+      "optionNo": 88269088152,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 315,
+      "category": "07.스낵1",
+      "name": "29_해태 칸츄리콘 90g(3개)",
+      "optionNo": 88874770042,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 316,
+      "category": "07.스낵1",
+      "name": "30_해태 신당동떡볶이110g(3개)",
+      "optionNo": 88874770043,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 317,
+      "category": "07.스낵1",
+      "name": "31_해태 허니버터칩 60g(3개)",
+      "optionNo": 88269088161,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 318,
+      "category": "07.스낵1",
+      "name": "32_해태 구운양파 60g(3개)",
+      "optionNo": 88269088163,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 319,
+      "category": "07.스낵1",
+      "name": "33_해태 맛동산 70g(3개)",
+      "optionNo": 89093199909,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 320,
+      "category": "07.스낵1",
+      "name": "34_카라멜메이플콘 74g(3개)",
+      "optionNo": 89908007530,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 321,
+      "category": "07.스낵1",
+      "name": "35_카라멜콘땅콩 72g(3개)",
+      "optionNo": 88269088170,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 322,
+      "category": "07.스낵1",
+      "name": "36_크라운 신짱 20g(3개)",
+      "optionNo": 88874770045,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 323,
+      "category": "07.스낵1",
+      "name": "37_크라운 츄러스 84g(3개)",
+      "optionNo": 89908007537,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 324,
+      "category": "07.스낵1",
+      "name": "38_해태 빠새 45g(3개)",
+      "optionNo": 89908007540,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 325,
+      "category": "07.스낵1",
+      "name": "39_스모키베이컨칩 70g(3개)",
+      "optionNo": 88874770049,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 326,
+      "category": "07.스낵1",
+      "name": "40_빙그레 꽃게랑 70g(3개)",
+      "optionNo": 89910185549,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 327,
+      "category": "07.스낵1",
+      "name": "41_빙그레 야채타임 70g(3개)",
+      "optionNo": 89910185550,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 328,
+      "category": "07.스낵1",
+      "name": "42_해태 홈런볼 초코 41g(3개)",
+      "optionNo": 89908007550,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 329,
+      "category": "07.스낵1",
+      "name": "43_뿌셔뿌셔 양념치킨 90g(4개)",
+      "optionNo": 88874770052,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 330,
+      "category": "07.스낵1",
+      "name": "44_뿌셔뿌셔 바베큐맛 90g(4개)",
+      "optionNo": 88874770054,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 331,
+      "category": "07.스낵1",
+      "name": "45_뿌셔뿌셔 불고기 90g(4개)",
+      "optionNo": 89908007559,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 332,
+      "category": "07.스낵1",
+      "name": "46_뻥이요 골드 51g(4개)",
+      "optionNo": 88874770058,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 333,
+      "category": "07.스낵1",
+      "name": "47_허니뻥이요 50g(4개)",
+      "optionNo": 88874770060,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 334,
+      "category": "07.스낵1",
+      "name": "48_삼양 별뽀빠이 72g(4개)",
+      "optionNo": 89910185551,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 335,
+      "category": "08.스낵2",
+      "name": "01_꼬깔콘 고소한맛 67g(3개)",
+      "optionNo": 88269088210,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 336,
+      "category": "08.스낵2",
+      "name": "02_꼬깔콘 군옥수수맛 67g(3개)",
+      "optionNo": 88269088211,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 337,
+      "category": "08.스낵2",
+      "name": "03_꼬깔콘 매콤달콤 67g(3개)",
+      "optionNo": 88269088212,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 338,
+      "category": "08.스낵2",
+      "name": "04_꼬깔콘 시리즈 67g(3개)",
+      "optionNo": 88269088213,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 339,
+      "category": "08.스낵2",
+      "name": "05_롯데 쌀로별 62g(3개)",
+      "optionNo": 88874770066,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 340,
+      "category": "08.스낵2",
+      "name": "06_치토스 매콤달콤 82g(3개)",
+      "optionNo": 88874770069,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 341,
+      "category": "08.스낵2",
+      "name": "07_치토스 스모키바베큐 82g(3개)",
+      "optionNo": 88874770073,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 342,
+      "category": "08.스낵2",
+      "name": "08_농심 매운새우깡 90g(3개)",
+      "optionNo": 88874770075,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 343,
+      "category": "08.스낵2",
+      "name": "09_농심 쌀새우깡 80g(3개)",
+      "optionNo": 88874770078,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 344,
+      "category": "08.스낵2",
+      "name": "10_농심 새우깡 90g(3개)",
+      "optionNo": 88874770080,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 345,
+      "category": "08.스낵2",
+      "name": "11_농심 망고킥 60g(3개)",
+      "optionNo": 90381451187,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 346,
+      "category": "08.스낵2",
+      "name": "12_새우깡 시리즈(3개)맛랜덤",
+      "optionNo": 89180629930,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 347,
+      "category": "08.스낵2",
+      "name": "13_농심 오징어집 78g(3개)",
+      "optionNo": 88874770087,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 348,
+      "category": "08.스낵2",
+      "name": "14_농심 알새우칩 68g(3개)",
+      "optionNo": 88874770091,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 349,
+      "category": "08.스낵2",
+      "name": "15_농심 포스틱 84g(3개)",
+      "optionNo": 88874770092,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 350,
+      "category": "08.스낵2",
+      "name": "16_농심 자갈치 90g(3개)",
+      "optionNo": 88874770094,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 351,
+      "category": "08.스낵2",
+      "name": "17_농심 조청유과 96g(3개)",
+      "optionNo": 88874770096,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 352,
+      "category": "08.스낵2",
+      "name": "18_농심 감자깡 75g(3개)",
+      "optionNo": 88874770098,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 353,
+      "category": "08.스낵2",
+      "name": "19_농심 고구마깡 83g(3개)",
+      "optionNo": 88874770100,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 354,
+      "category": "08.스낵2",
+      "name": "20_농심 바나나킥 75g(3개)",
+      "optionNo": 88874770102,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 355,
+      "category": "08.스낵2",
+      "name": "21_농심 꿀꽈배기 90g(3개)",
+      "optionNo": 88874770104,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 356,
+      "category": "08.스낵2",
+      "name": "22_농심 양파링 84g(3개)",
+      "optionNo": 88874770107,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 357,
+      "category": "08.스낵2",
+      "name": "23_먹태깡 고추장마요 60g(3개)",
+      "optionNo": 88874770110,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 358,
+      "category": "08.스낵2",
+      "name": "24_먹태깡 청양마요 60g(3개)",
+      "optionNo": 88874770111,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 359,
+      "category": "08.스낵2",
+      "name": "25_농심 빵부장 초코빵 55g(3개)",
+      "optionNo": 88874770113,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 360,
+      "category": "08.스낵2",
+      "name": "26_농심 빵부장 소금빵 55g(3개)",
+      "optionNo": 88874770115,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 361,
+      "category": "08.스낵2",
+      "name": "27_농심 벌집핏자 90g(3개)",
+      "optionNo": 89180629931,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 362,
+      "category": "08.스낵2",
+      "name": "28_닭다리 후라이드치킨 66g(3개)",
+      "optionNo": 88874770119,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 363,
+      "category": "08.스낵2",
+      "name": "29_닭다리 핫숯불바베큐 66g(3개)",
+      "optionNo": 88874770120,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 364,
+      "category": "08.스낵2",
+      "name": "30_농심 메론킥 60g(3개)",
+      "optionNo": 88874770121,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 365,
+      "category": "08.스낵2",
+      "name": "31_미니인디안밥 45g(4개)",
+      "optionNo": 88874770122,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 366,
+      "category": "08.스낵2",
+      "name": "32_쫄병 매콤한맛 82g(4개)",
+      "optionNo": 88874770123,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 367,
+      "category": "08.스낵2",
+      "name": "33_쫄병 숯불바베큐맛 82g(4개)",
+      "optionNo": 88874770124,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 368,
+      "category": "08.스낵2",
+      "name": "34_쫄병 안성탕면맛 77g(4개)",
+      "optionNo": 88874770125,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 369,
+      "category": "08.스낵2",
+      "name": "35_쫄병 짜파게티맛 77g(4개)",
+      "optionNo": 88874770126,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 370,
+      "category": "08.스낵2",
+      "name": "36_농심 쫄병 시리즈(4개)",
+      "optionNo": 88874770127,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 371,
+      "category": "08.스낵2",
+      "name": "37_농심 새우깡 미니팩 120g+90g",
+      "optionNo": 88874770128,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 372,
+      "category": "08.스낵2",
+      "name": "38_농심스낵 랜덤(3개)",
+      "optionNo": 88874770129,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 373,
+      "category": "08.스낵2",
+      "name": "39_오징어집+알새우+자갈치(3개)",
+      "optionNo": 88874770130,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 374,
+      "category": "08.스낵2",
+      "name": "40_감자깡+고구마깡+새우깡(3개)",
+      "optionNo": 88874770131,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 375,
+      "category": "08.스낵2",
+      "name": "41_포스틱+꿀꽈+조청(3개)",
+      "optionNo": 88874770133,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 376,
+      "category": "08.스낵2",
+      "name": "42_농심 빵부장 시리즈(3개)",
+      "optionNo": 88874770134,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": false
+    },
+    {
+      "number": 377,
+      "category": "09.초콜릿",
+      "name": "01_가나초코바 땅콩 45g(4개)",
+      "optionNo": 88269088260,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 378,
+      "category": "09.초콜릿",
+      "name": "02_가나초코바 아몬드 43g(4개)",
+      "optionNo": 88269088261,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 379,
+      "category": "09.초콜릿",
+      "name": "03_자유시간 리얼초코 36g(4개)",
+      "optionNo": 88269088262,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 380,
+      "category": "09.초콜릿",
+      "name": "04_자유시간 아몬드 36g(4개)",
+      "optionNo": 88269088263,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 381,
+      "category": "09.초콜릿",
+      "name": "05_크런키더블크런치바 36g(4개)",
+      "optionNo": 88269088264,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 382,
+      "category": "09.초콜릿",
+      "name": "06_크런키 초코바 30g(4개)",
+      "optionNo": 88269088265,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 383,
+      "category": "09.초콜릿",
+      "name": "07_키커바 가나슈 28g(5개)",
+      "optionNo": 89879737950,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 384,
+      "category": "09.초콜릿",
+      "name": "08_키커바 크리미밀크 28g(5개)",
+      "optionNo": 89879737953,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 385,
+      "category": "09.초콜릿",
+      "name": "09_핫브레이크 쫀득쿠키 38g(4개)",
+      "optionNo": 89879737956,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 386,
+      "category": "09.초콜릿",
+      "name": "10_핫브레이크 오리지널 45g(4개)",
+      "optionNo": 89879737958,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 387,
+      "category": "09.초콜릿",
+      "name": "11_오리온 단백질바 50g(3개)",
+      "optionNo": 89694426951,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 388,
+      "category": "09.초콜릿",
+      "name": "12_오리온 에너지바 40g(4개)",
+      "optionNo": 89694426953,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 389,
+      "category": "09.초콜릿",
+      "name": "13_에너지바 저당 50g(3개)",
+      "optionNo": 89694426955,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 390,
+      "category": "09.초콜릿",
+      "name": "14_허쉬 쿠키앤크림 초콜릿 40g(3개)",
+      "optionNo": 90178001450,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 391,
+      "category": "09.초콜릿",
+      "name": "15_허쉬 밀크초콜릿 40g(3개)",
+      "optionNo": 90178001451,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 392,
+      "category": "09.초콜릿",
+      "name": "16_허쉬 아몬드 초콜릿 40g(3개)",
+      "optionNo": 90178001452,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 393,
+      "category": "09.초콜릿",
+      "name": "17_켈로그 크런치넛 30g(4개)",
+      "optionNo": 89879737969,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 394,
+      "category": "09.초콜릿",
+      "name": "18_켈로그 레드베리 30g(4개)",
+      "optionNo": 89879737971,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 395,
+      "category": "09.초콜릿",
+      "name": "19_켈로그 헤이다크초코 40g(3개)",
+      "optionNo": 89879737973,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 396,
+      "category": "09.초콜릿",
+      "name": "20_켈로그 단백질바K 50g(3개)",
+      "optionNo": 89879737974,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 397,
+      "category": "09.초콜릿",
+      "name": "21_오리온 톡핑 헤이즐넛 43g(3개)",
+      "optionNo": 89879737975,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 398,
+      "category": "09.초콜릿",
+      "name": "22_오리온 톡핑 아몬드 43g(3개)",
+      "optionNo": 89879737976,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 399,
+      "category": "09.초콜릿",
+      "name": "23_오리온 톡핑 말차블라썸 43g(3개)",
+      "optionNo": 90384570101,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 400,
+      "category": "09.초콜릿",
+      "name": "24_오리온 톡핑 시리즈 43g(3개)",
+      "optionNo": 89879737978,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 401,
+      "category": "09.초콜릿",
+      "name": "25_엠엔엠즈 피넛 37g(3개)",
+      "optionNo": 89879737979,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 402,
+      "category": "09.초콜릿",
+      "name": "26_엠엔엠즈 밀크 37g(3개)",
+      "optionNo": 89879737980,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 403,
+      "category": "09.초콜릿",
+      "name": "28_롯데 아몬드 초코볼 46g(2개)",
+      "optionNo": 89879737982,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 404,
+      "category": "09.초콜릿",
+      "name": "29_롯데 크런키 34g(3개)",
+      "optionNo": 89879737983,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 405,
+      "category": "09.초콜릿",
+      "name": "30_롯데 가나마일드 34g(3개)",
+      "optionNo": 89879737984,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 406,
+      "category": "09.초콜릿",
+      "name": "31_키세스 크리미밀크 52g(2개)",
+      "optionNo": 89879737985,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 407,
+      "category": "09.초콜릿",
+      "name": "32_키세스 아몬드 52g(2개)",
+      "optionNo": 89879737986,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 408,
+      "category": "09.초콜릿",
+      "name": "33_키세스 쿠키앤크림 52g(2개)",
+      "optionNo": 89879737988,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 409,
+      "category": "09.초콜릿",
+      "name": "34__드림 56프로86g+크런키 34",
+      "optionNo": 89879737990,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 410,
+      "category": "09.초콜릿",
+      "name": "35_드림 72프로86g+크런키 34g",
+      "optionNo": 89879737992,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 411,
+      "category": "09.초콜릿",
+      "name": "36_크런키볼 76g+크런키 34g",
+      "optionNo": 89879737994,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 412,
+      "category": "09.초콜릿",
+      "name": "37_오그래놀라 단백질바 미니 192g",
+      "optionNo": 89694426982,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 413,
+      "category": "09.초콜릿",
+      "name": "38_에너지바 미니 200g",
+      "optionNo": 89694426983,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 414,
+      "category": "09.초콜릿",
+      "name": "39_단백질바 미니 202.5g",
+      "optionNo": 89694426984,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 415,
+      "category": "09.초콜릿",
+      "name": "40_에너지바 저당 미니 202.5g5g",
+      "optionNo": 89879737999,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 416,
+      "category": "09.초콜릿",
+      "name": "41_롯데 에이비씨 초코 72g(2개)",
+      "optionNo": 89694426986,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 417,
+      "category": "09.초콜릿",
+      "name": "42_롯데 에이비씨 초코 187g",
+      "optionNo": 89694426987,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 418,
+      "category": "09.초콜릿",
+      "name": "43_자유시간미니 180g+리얼초코 36g",
+      "optionNo": 89879738003,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 419,
+      "category": "10.캔디양갱",
+      "name": "01_코피코 커피맛캔디 150g(2개)",
+      "optionNo": 88269088322,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 420,
+      "category": "10.캔디양갱",
+      "name": "02_코피코 카푸치노캔디 120g(2개)",
+      "optionNo": 88296150541,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 421,
+      "category": "10.캔디양갱",
+      "name": "03_코피코 슈가프리 무설탕 75g(2개)",
+      "optionNo": 88269088324,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 422,
+      "category": "10.캔디양갱",
+      "name": "04_오리온 바이오 생과즙캔디 99g(3개)",
+      "optionNo": 88269088325,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 423,
+      "category": "10.캔디양갱",
+      "name": "05_오리온 바이오 생우유캔디 99g(3개)",
+      "optionNo": 88269088326,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 424,
+      "category": "10.캔디양갱",
+      "name": "06_오리온 통아몬드캔디 90g(3개)",
+      "optionNo": 88269088327,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 425,
+      "category": "10.캔디양갱",
+      "name": "07_롯데 말랑카우 밀크 79g(2개)",
+      "optionNo": 88269088328,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 426,
+      "category": "10.캔디양갱",
+      "name": "08_롯데 말랑카우 딸기우유 79g(2개)",
+      "optionNo": 88269088329,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 427,
+      "category": "10.캔디양갱",
+      "name": "09_말랑카우 빠삐코 158g",
+      "optionNo": 90245098330,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 428,
+      "category": "10.캔디양갱",
+      "name": "10_롯데 스카치 세가지맛 157g(2개)",
+      "optionNo": 90245098333,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 429,
+      "category": "10.캔디양갱",
+      "name": "11_롯데 스카치 커피맛 157g(2개)",
+      "optionNo": 90288254932,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 430,
+      "category": "10.캔디양갱",
+      "name": "12_롯데 청포도 캔디 153g(2개)",
+      "optionNo": 90288254933,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 431,
+      "category": "10.캔디양갱",
+      "name": "13_롯데 애니타임 92g(2개)",
+      "optionNo": 90288254934,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 432,
+      "category": "10.캔디양갱",
+      "name": "14_해태 알사탕 126g(3개)",
+      "optionNo": 88269088336,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 433,
+      "category": "10.캔디양갱",
+      "name": "15_해태 자두캔디 130g(3개)",
+      "optionNo": 89694426992,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 434,
+      "category": "10.캔디양갱",
+      "name": "16_해태 썬키스트캔디 125g(3개)",
+      "optionNo": 90288254935,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 435,
+      "category": "10.캔디양갱",
+      "name": "17_롯데 목캔디 허브 217g",
+      "optionNo": 90288254936,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 436,
+      "category": "10.캔디양갱",
+      "name": "18_목캔디 믹스베리 217g",
+      "optionNo": 90288254937,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 437,
+      "category": "10.캔디양갱",
+      "name": "19_마이쮸 리치피치 284g",
+      "optionNo": 90245098348,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 438,
+      "category": "10.캔디양갱",
+      "name": "20_마이쮸 멜론애플망고 284g",
+      "optionNo": 90288254938,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 439,
+      "category": "10.캔디양갱",
+      "name": "21_새콤달콤포도복숭아 200g(2개)",
+      "optionNo": 89584099782,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 440,
+      "category": "10.캔디양갱",
+      "name": "22_새콤달콤 딸기블루베리 200g(2개)",
+      "optionNo": 90288254939,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 441,
+      "category": "10.캔디양갱",
+      "name": "23_마이쮸 핑크리치 100g(3개)",
+      "optionNo": 90245098353,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 442,
+      "category": "10.캔디양갱",
+      "name": "24_마이쮸 캔털루프멜론 100g(3개)",
+      "optionNo": 90245098356,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 443,
+      "category": "10.캔디양갱",
+      "name": "25_마이쮸 애플망고 100g(3개)",
+      "optionNo": 90245098358,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 444,
+      "category": "10.캔디양갱",
+      "name": "26_마이쮸 써니피치 100g(3개)",
+      "optionNo": 90288254940,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 445,
+      "category": "10.캔디양갱",
+      "name": "27_후르트텔라 요구르트향 100g(3개)",
+      "optionNo": 90422522038,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 446,
+      "category": "10.캔디양갱",
+      "name": "28_크라운 땅콩카라멜 120g(3개)",
+      "optionNo": 90422522039,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 447,
+      "category": "10.캔디양갱",
+      "name": "29_크라운 비단박하 140g(3개)",
+      "optionNo": 90422522040,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 448,
+      "category": "10.캔디양갱",
+      "name": "30_스키틀즈 오리지널 150g",
+      "optionNo": 89879738031,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 449,
+      "category": "10.캔디양갱",
+      "name": "31_아이셔 청사과맛 42g(4개)",
+      "optionNo": 90422522042,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 450,
+      "category": "10.캔디양갱",
+      "name": "32_아이셔 야쿠르트맛 42g(4개)",
+      "optionNo": 90422522044,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 451,
+      "category": "10.캔디양갱",
+      "name": "33_오리온 핵아이셔42g(4개)",
+      "optionNo": 90422522047,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 452,
+      "category": "10.캔디양갱",
+      "name": "34_아이셔 소다맛 42g(4개)",
+      "optionNo": 90422522049,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 453,
+      "category": "10.캔디양갱",
+      "name": "35_마이쮸 복숭아 용기 100g(2개)",
+      "optionNo": 90422522051,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 454,
+      "category": "10.캔디양갱",
+      "name": "36_마이쮸 딸기 용기 100g(2개)",
+      "optionNo": 90422522052,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 455,
+      "category": "10.캔디양갱",
+      "name": "37_마이쮸 포도 용기 100g(2개)",
+      "optionNo": 90422522053,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 456,
+      "category": "10.캔디양갱",
+      "name": "38_마이쮸 사과 용기 100g(2개)",
+      "optionNo": 90422522054,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 457,
+      "category": "10.캔디양갱",
+      "name": "39_마이쮸 용기 100g(2개) 맛랜덤",
+      "optionNo": 90422522056,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 458,
+      "category": "11.안주캔디껌",
+      "name": "01_크라운 마이쮸 스틱 딸기(7개)",
+      "optionNo": 90422522057,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 459,
+      "category": "11.안주캔디껌",
+      "name": "02_크라운 마이쮸 스틱 사과(7개)",
+      "optionNo": 90422522060,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 460,
+      "category": "11.안주캔디껌",
+      "name": "03__크라운 마이쮸 스틱 포도(7개)",
+      "optionNo": 90422522062,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 461,
+      "category": "11.안주캔디껌",
+      "name": "04_마이쮸 핑크리치 44g(6개)",
+      "optionNo": 90422522064,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 462,
+      "category": "11.안주캔디껌",
+      "name": "05_마이쮸 골드파인애플 44g(6개)",
+      "optionNo": 90422522066,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 463,
+      "category": "11.안주캔디껌",
+      "name": "06_마이쮸 써니피치 44g(6개)",
+      "optionNo": 90422522067,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 464,
+      "category": "11.안주캔디껌",
+      "name": "07_마이쮸 애플망고 44g(6개)",
+      "optionNo": 90422522068,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 465,
+      "category": "11.안주캔디껌",
+      "name": "08_마이쮸 스틱 시리즈(맛랜덤)(6개)",
+      "optionNo": 90422522069,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 466,
+      "category": "11.안주캔디껌",
+      "name": "09_새콤달콤 스틱 포도(12개)",
+      "optionNo": 90422522070,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 467,
+      "category": "11.안주캔디껌",
+      "name": "10_새콤달콤 블루베리소다 29g(12개)",
+      "optionNo": 90422522071,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 468,
+      "category": "11.안주캔디껌",
+      "name": "11_새콤달콤 스틱 딸기(12개)",
+      "optionNo": 90422522072,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 469,
+      "category": "11.안주캔디껌",
+      "name": "12_새콤달콤 스틱 복숭아(12개)",
+      "optionNo": 90422522073,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 470,
+      "category": "11.안주캔디껌",
+      "name": "13_호올스 시리즈(맛랜덤)(5개)",
+      "optionNo": 90422522074,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 471,
+      "category": "11.안주캔디껌",
+      "name": "14_호올스 딸기(5개)",
+      "optionNo": 90422522075,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 472,
+      "category": "11.안주캔디껌",
+      "name": "15_호올스 멘토립터스(5개)",
+      "optionNo": 90422522076,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 473,
+      "category": "11.안주캔디껌",
+      "name": "16_호올스 자몽(5개)",
+      "optionNo": 90422522078,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 474,
+      "category": "11.안주캔디껌",
+      "name": "17_호올스 블루베리(5개)",
+      "optionNo": 90422522080,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 475,
+      "category": "11.안주캔디껌",
+      "name": "18_호올스 아이스블루(5개)",
+      "optionNo": 90422522082,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 476,
+      "category": "11.안주캔디껌",
+      "name": "19_호올스 허니 레몬향(5개)",
+      "optionNo": 90422522084,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 477,
+      "category": "11.안주캔디껌",
+      "name": "20_호올스 라임(5개)",
+      "optionNo": 90422522085,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 478,
+      "category": "11.안주캔디껌",
+      "name": "21_호올스 오렌지(5개)",
+      "optionNo": 90422522088,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 479,
+      "category": "11.안주캔디껌",
+      "name": "22_졸음번쩍껌 용기 86g",
+      "optionNo": 90422522090,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 480,
+      "category": "11.안주캔디껌",
+      "name": "23_자일리톨 알파 용기 86g",
+      "optionNo": 90422522092,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 481,
+      "category": "11.안주캔디껌",
+      "name": "24_자일리톨 오리지널 용기 100g",
+      "optionNo": 90422522094,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 482,
+      "category": "11.안주캔디껌",
+      "name": "25_오리온 더자일리톨 용기 102g",
+      "optionNo": 90422522095,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 483,
+      "category": "11.안주캔디껌",
+      "name": "26_오리온 더자일리톨 트윈리필 122g",
+      "optionNo": 90422522097,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 484,
+      "category": "11.안주캔디껌",
+      "name": "27_자일리톨 오리지널 트윈리필 105g",
+      "optionNo": 90422522099,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 485,
+      "category": "11.안주캔디껌",
+      "name": "28_자일리톨 알파 트윈리필 88g",
+      "optionNo": 90422522100,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 486,
+      "category": "11.안주캔디껌",
+      "name": "29_졸음번쩍껌 트윈리필105g",
+      "optionNo": 90422522102,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 487,
+      "category": "11.안주캔디껌",
+      "name": "30_오징어 숏다리 20g(3개)",
+      "optionNo": 90443424112,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 488,
+      "category": "11.안주캔디껌",
+      "name": "31_꽃보다오징어 15g(3개)",
+      "optionNo": 90443424115,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 489,
+      "category": "11.안주캔디껌",
+      "name": "32_꽃보다오징어SOFT 15g(3개)",
+      "optionNo": 90443424118,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 490,
+      "category": "11.안주캔디껌",
+      "name": "33_오징어 버터구이 40g",
+      "optionNo": 90443424122,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 491,
+      "category": "11.안주캔디껌",
+      "name": "34_오징어 불고기 버터구이 40g",
+      "optionNo": 90443424124,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 492,
+      "category": "11.안주캔디껌",
+      "name": "35_오징어 황토구이 버터구이 40g",
+      "optionNo": 90443424125,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 493,
+      "category": "11.안주캔디껌",
+      "name": "36_오징어 전기구이 50g",
+      "optionNo": 90443424127,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 494,
+      "category": "11.안주캔디껌",
+      "name": "37_오징어 불고기 전기구이 50g",
+      "optionNo": 90443424129,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 495,
+      "category": "11.안주캔디껌",
+      "name": "38_황토방 전기구이 50g",
+      "optionNo": 90443424131,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 496,
+      "category": "11.안주캔디껌",
+      "name": "39_머거본 커피땅콩 40g(5개)",
+      "optionNo": 90443424133,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 497,
+      "category": "11.안주캔디껌",
+      "name": "40_머거본 꿀땅콩 40g(5개)",
+      "optionNo": 90443424135,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 498,
+      "category": "11.안주캔디껌",
+      "name": "41_머거본 믹스너트 40g(4개)",
+      "optionNo": 90443424136,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 499,
+      "category": "11.안주캔디껌",
+      "name": "42_머거본 칼몬드 35gx2+커피땅콩(총3개)",
+      "optionNo": 90443424137,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    },
+    {
+      "number": 500,
+      "category": "11.안주캔디껌",
+      "name": "43_머거본 시리즈(4개)",
+      "optionNo": 90443424139,
+      "price": "5,800",
+      "couponPrice": "5,340",
+      "optionStatus": true
+    }
+  ]
+}

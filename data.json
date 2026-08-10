@@ -1,0 +1,36 @@
+{
+  "submissions": [
+    {
+      "id": "d23f8743-670d-459e-82b6-798d76641f7f",
+      "room": "ssafy-16-snack",
+      "optionNo": "90423251380",
+      "title": "04_롯데 제로 쑥단호박 171g",
+      "category": "01.신제품할인",
+      "createdAt": "2026-08-10T09:24:34.335Z"
+    },
+    {
+      "id": "dd2e9c56-e6bd-4695-a946-8180f6a38096",
+      "room": "ssafy-16-snack",
+      "optionNo": "90404336233",
+      "title": "05_빅파이 제주레몬허니 324g",
+      "category": "01.신제품할인",
+      "createdAt": "2026-08-10T09:24:34.335Z"
+    },
+    {
+      "id": "7da0d7f5-f44c-4119-b112-53910ad42912",
+      "room": "ssafy-16-snack",
+      "optionNo": "90404336242",
+      "title": "13_프링글스 텍사스식 100g(2개)",
+      "category": "01.신제품할인",
+      "createdAt": "2026-08-10T09:24:36.246Z"
+    },
+    {
+      "id": "b66b0569-d019-481e-8de4-7ea65595df80",
+      "room": "ssafy-16-snack",
+      "optionNo": "90404336233",
+      "title": "05_빅파이 제주레몬허니 324g",
+      "category": "01.신제품할인",
+      "createdAt": "2026-08-10T09:24:36.246Z"
+    }
+  ]
+}

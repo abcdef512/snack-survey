@@ -29,7 +29,10 @@ http.createServer(async (req, res) => {
   if (!url.pathname.startsWith('/api/')) return serve(req,res);
   try {
     const data=readData(); const room=(url.searchParams.get('room')||'ssafy-16-snack').trim().slice(0,80);
-    if (req.method==='GET' && url.pathname==='/api/submissions') return json(res,200,{submissions:data.submissions.filter(x=>x.room===room).sort((a,b)=>b.createdAt.localeCompare(a.createdAt))});
+    if (req.method==='GET' && url.pathname==='/api/submissions') {
+      if (!isAdmin(req)) return json(res,401,{error:'관리자 인증이 필요합니다.'});
+      return json(res,200,{submissions:data.submissions.filter(x=>x.room===room).sort((a,b)=>b.createdAt.localeCompare(a.createdAt))});
+    }
     if (req.method==='POST' && url.pathname==='/api/submissions') {
       const input=await readBody(req); const submitRoom=String(input.room||room).trim().slice(0,80)||room; const optionNos=Array.isArray(input.optionNos)?input.optionNos:[input.optionNo]; const catalog=catalogMap(); const products=[...new Set(optionNos.map(String))].map(no=>catalog.get(no)).filter(Boolean);
       if (!products.length) return json(res,400,{error:'목록에서 간식을 하나 이상 선택해 주세요.'});
